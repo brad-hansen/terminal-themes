@@ -1,0 +1,23 @@
+{
+    "background": "#1F2430",
+    "black": "#1F2430",
+    "blue": "#73D0FF",
+    "brightBlack": "#707A8C",
+    "brightBlue": "#73D0FF",
+    "brightCyan": "#95E6CB",
+    "brightGreen": "#BAE67E",
+    "brightPurple": "#D4BFFF",
+    "brightRed": "#FF3333",
+    "brightWhite": "#CBCCC6",
+    "brightYellow": "#FFA759",
+    "cursorColor": "#FFCC66",
+    "cyan": "#95E6CB",
+    "foreground": "#CBCCC6",
+    "green": "#BAE67E",
+    "name": "Ayu Mirage",
+    "purple": "#D4BFFF",
+    "red": "#FF3333",
+    "selectionBackground": "#FFFFFF",
+    "white": "#CBCCC6",
+    "yellow": "#FFA759"
+}

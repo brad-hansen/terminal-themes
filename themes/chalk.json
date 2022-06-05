@@ -1,0 +1,23 @@
+{
+    "background": "#2D2D2D",
+    "black": "#646464",
+    "blue": "#7AABD4",
+    "brightBlack": "#646464",
+    "brightBlue": "#7AABD4",
+    "brightCyan": "#79D4D5",
+    "brightGreen": "#A9D3AB",
+    "brightPurple": "#D6ADD5",
+    "brightRed": "#F58E8E",
+    "brightWhite": "#D4D4D4",
+    "brightYellow": "#FED37E",
+    "cursorColor": "#D4D4D4",
+    "cyan": "#79D4D5",
+    "foreground": "#D4D4D4",
+    "green": "#A9D3AB",
+    "name": "Chalk",
+    "purple": "#D6ADD5",
+    "red": "#F58E8E",
+    "selectionBackground": "#FFFFFF",
+    "white": "#D4D4D4",
+    "yellow": "#FED37E"
+}

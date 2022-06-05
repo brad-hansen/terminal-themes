@@ -1,0 +1,23 @@
+{
+    "background": "#0D1926",
+    "black": "#363636",
+    "blue": "#0883FF",
+    "brightBlack": "#424242",
+    "brightBlue": "#1E8EFF",
+    "brightCyan": "#1EFF8E",
+    "brightGreen": "#8EFF1E",
+    "brightPurple": "#8E1EFF",
+    "brightRed": "#FF1E8E",
+    "brightWhite": "#C2C2C2",
+    "brightYellow": "#FF8E1E",
+    "cursorColor": "#B4E1FD",
+    "cyan": "#08FF83",
+    "foreground": "#B4E1FD",
+    "green": "#83FF08",
+    "name": "Aci",
+    "purple": "#8308FF",
+    "red": "#FF0883",
+    "selectionBackground": "#FFFFFF",
+    "white": "#B6B6B6",
+    "yellow": "#FF8308"
+}

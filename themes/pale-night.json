@@ -1,0 +1,23 @@
+{
+    "background": "#292D3E",
+    "black": "#292D3E",
+    "blue": "#82AAFF",
+    "brightBlack": "#959DCB",
+    "brightBlue": "#82AAFF",
+    "brightCyan": "#676E95",
+    "brightGreen": "#C3E88D",
+    "brightPurple": "#FFCB6B",
+    "brightRed": "#F07178",
+    "brightWhite": "#FFFEFE",
+    "brightYellow": "#FF5572",
+    "cursorColor": "#BFC7D5",
+    "cyan": "#60ADEC",
+    "foreground": "#BFC7D5",
+    "green": "#C3E88D",
+    "name": "Pale Night",
+    "purple": "#C792EA",
+    "red": "#F07178",
+    "selectionBackground": "#FFFFFF",
+    "white": "#ABB2BF",
+    "yellow": "#FFCB6B"
+}

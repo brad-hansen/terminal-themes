@@ -1,0 +1,23 @@
+{
+    "background": "#2C2C2C",
+    "black": "#2C2C2C",
+    "blue": "#366B71",
+    "brightBlack": "#777777",
+    "brightBlue": "#366B71",
+    "brightCyan": "#458587",
+    "brightGreen": "#689D69",
+    "brightPurple": "#4E5165",
+    "brightRed": "#CC231C",
+    "brightWhite": "#C8BB97",
+    "brightYellow": "#D79922",
+    "cursorColor": "#DEDEDE",
+    "cyan": "#458587",
+    "foreground": "#DEDEDE",
+    "green": "#689D69",
+    "name": "Chameleon",
+    "purple": "#4E5165",
+    "red": "#CC231C",
+    "selectionBackground": "#FFFFFF",
+    "white": "#C8BB97",
+    "yellow": "#D79922"
+}
